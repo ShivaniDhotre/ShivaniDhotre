@@ -43,7 +43,6 @@
 ### 🚀 Featured Projects
 - 🏛 **Heritage Tourism App** – Flutter + AI Integration  
 - 📝 **To-Do App** – SQLite (Offline Storage)  
-- 🛍 **Craftora App** – Seller & User Modules (Dashboard, Orders, Analytics)
 
 👉 *More projects available in repositories*
 
