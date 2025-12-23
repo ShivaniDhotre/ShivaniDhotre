@@ -7,25 +7,25 @@
 
 <hr/>
 
-<!-- TOP SECTION -->
-<table>
+<!-- INTRO + IMAGE SECTION -->
+<table width="100%">
 <tr>
-<td width="65%">
+<td width="65%" valign="top">
 
 ### 👩‍💻 About Me
 
 - 🚀 Passionate Flutter Developer from India  
 - 💼 6+ Months Experience in Mobile App Development  
-- 🔥 Currently working on **Flutter + Firebase**
-- 📱 Building clean & scalable UI
-- 🌱 Learning Advanced Flutter & Architecture  
+- 🔥 Working on **Flutter + Firebase Projects**  
+- 🎯 Focused on **clean UI & performance**
+- 🌱 Learning **Advanced Flutter Architecture**
 
 ### 📌 Currently Working On
-- Flutter UI Projects  
-- Firebase Authentication  
+- Flutter UI Development  
+- Firebase Auth & Firestore  
 - REST API Integration  
 
-### 📬 How to Reach Me
+### 📬 Contact
 - 📧 yourmail@gmail.com  
 - 💼 LinkedIn  
 
@@ -33,11 +33,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="120"/>
-
-<br/><br/>
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
+<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/animated-girl-coding.gif" width="260"/>
 
 </td>
 </tr>
@@ -51,7 +47,6 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter"/></a>
 </p>
 
 ---
@@ -64,18 +59,18 @@
 
 ---
 
-## 📊 GitHub Stats (Cards like Image)
+## 📊 GitHub Stats & Most Used Languages
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivanidhotre&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shivanidhotre&show_icons=true&theme=default" />
 
 </td>
-<td>
+<td width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanidhotre&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanidhotre&layout=compact" />
 
 </td>
 </tr>
@@ -83,20 +78,12 @@
 
 ---
 
-## 📈 Most Used Languages
+## 🔥 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanidhotre&layout=compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanidhotre" />
 </p>
 
 ---
 
-## 🔥 Contribution Overview
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivanidhotre&theme=default"/>
-</p>
-
----
-
-✨ **Thanks for visiting my profile!**
+✨ *Thank you for visiting my profile!*
