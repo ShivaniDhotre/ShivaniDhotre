@@ -2,7 +2,10 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivanidhotre&label=Profile%20Views&color=0e75b6&style=flat" alt="shivanidhotre" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=shivanidhotre&label=Profile%20Views&color=0e75b6&style=flat" 
+    alt="Profile Views"
+  />
 </p>
 
 <!-- ABOUT + IMAGE SECTION -->
@@ -13,28 +16,27 @@
 
 ### 👩‍💻 About Me
 
-- 💬 Ask me about **Java, C++, C, MySQL, HTML, CSS**
+- 💬 Ask me about **Flutter,Dart,Firebase,Java, C++, C,**
 - 🌱 Currently learning **Flutter & Firebase**
-- 🎯 Focused on **clean UI & scalable apps**
+- 🎯 Focused on clean UI & scalable apps
 - 📫 Reach me at **shivanidhotre609@gmail.com**
 
 ### 🔗 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/shivani-dhotre-226046175" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/shivani-dhotre-226046175" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    width="32"
+  />
+</a>
 
 </td>
 
-<td width="35%" align="center">
-
-<img 
-  src="https://i.pinimg.com/736x/a1/22/7b/a1227baefd4e77a596940b3e6278f861.jpg" 
-  width="260" 
-  style="border-radius:12px;"
-/>
-
+<td width="35%" align="center" valign="middle">
+  <img 
+    src="https://i.pinimg.com/736x/a1/22/7b/a1227baefd4e77a596940b3e6278f861.jpg"
+    width="100%"
+    alt="Coding Girl Illustration"
+  />
 </td>
 
 </tr>
