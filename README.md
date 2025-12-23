@@ -8,11 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 📱 Flutter Developer with hands-on experience in building **responsive & scalable mobile apps**
-- 💙 Passionate about **clean UI, state management, and performance optimization**
-- 🛠️ Experience in **API integration, local databases, and custom UI components**
-- 🌱 Currently enhancing skills in **advanced Flutter & Firebase**
-- 👩‍💻 Strong foundation in **Data Structures, OOPs, and DBMS**
+- 📱 Flutter Developer with hands-on experience in mobile app development  
+- 💙 Passionate about clean UI, state management & performance  
+- 🔗 Experience with REST APIs, SQLite & Firebase  
+- 🌱 Currently learning advanced Flutter concepts  
 
 ---
 
@@ -21,25 +20,7 @@
 
 ---
 
-### 📫 How to reach me
-**shivanidhotre609@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ shivani-dhotre-226046175" target="blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       alt="www.linkedin.com/in/ shivani-dhotre-226046175"
-       height="30"
-       width="40" />
-</a>
-</p>
-
----
-
-### 🧰 Languages and Tools:
+### 🧰 Languages and Tools
 <p align="left">
   <a href="https://flutter.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
@@ -53,22 +34,52 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
 </p>
 
 ---
 
 ### 📱 Flutter Highlights
-- ✔️ Clean Architecture & MVC / MVVM
-- ✔️ REST API Integration
-- ✔️ SQLite / Local Storage
-- ✔️ Custom Widgets & Animations
-- ✔️ Responsive UI (Mobile-first)
-- ✔️ Firebase Authentication & Firestore (basic)
+- ✔️ Clean Architecture (MVC / MVVM)  
+- ✔️ REST API Integration  
+- ✔️ SQLite / Local Storage  
+- ✔️ Custom Widgets & Animations  
+- ✔️ Responsive UI  
 
 ---
+
+### 📦 Featured Flutter Repository
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivanidhotre&repo=flutter-projects&theme=default" />
+</p>
+
+> 🔹 *(Replace `flutter-projects` with your main Flutter repo name if different)*
+
+---
+
+### 📫 How to reach me
+**shivanidhotre609@gmail.com**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ shivani-dhotre-226046175" target="blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 📊 Daily Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanidhotre&theme=github-light" />
+</p>
+
+---
+
+<!-- DO NOT CHANGE BELOW -->
 
 <p>
   <img align="left"
@@ -84,6 +95,6 @@
 
 <p>
   <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=shivanidhotre&"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=shivanidhotre"
        alt="shivanidhotre" />
 </p>
