@@ -5,40 +5,54 @@
   <img src="https://komarev.com/ghpvc/?username=shivanidhotre&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<hr/>
+
+<!-- TOP SECTION -->
+<table>
+<tr>
+<td width="65%">
+
+### 👩‍💻 About Me
+
+- 🚀 Passionate Flutter Developer from India  
+- 💼 6+ Months Experience in Mobile App Development  
+- 🔥 Currently working on **Flutter + Firebase**
+- 📱 Building clean & scalable UI
+- 🌱 Learning Advanced Flutter & Architecture  
+
+### 📌 Currently Working On
+- Flutter UI Projects  
+- Firebase Authentication  
+- REST API Integration  
+
+### 📬 How to Reach Me
+- 📧 yourmail@gmail.com  
+- 💼 LinkedIn  
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="120"/>
+
+<br/><br/>
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 👩‍💻 About Me
-
-- 🚀 Passionate **Flutter Developer** from India  
-- 💼 Experience in **Mobile App Development**
-- 🔥 Currently working on **Flutter + Firebase projects**
-- 📱 Love building **clean & scalable UI**
-- 🌱 Learning **Advanced Flutter & State Management**
-
----
-
-## 🔗 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/shivanidhotre" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter"/></a>
 </p>
-
----
-
-## 🧠 Currently Learning
-
-- ✅ Flutter Advanced UI
-- ✅ Firebase Authentication & Firestore
-- ✅ REST API Integration
-- ✅ Clean Architecture
 
 ---
 
@@ -50,31 +64,39 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Cards like Image)
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shivanidhotre&show_icons=true&theme=default"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanidhotre&theme=default"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanidhotre&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanidhotre&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanidhotre&layout=compact"/>
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+## 🔥 Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanidhotre&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivanidhotre&theme=default"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project Name | Description |
-|--------------|------------|
-| 📱 Flutter ToDo App | SQLite CRUD + Offline Storage |
-| 🔥 Firebase App | Auth + Firestore |
-| 🛍️ E-commerce UI | Clean Flutter UI |
-
----
-
-✨ *Thank you for visiting my profile!*
+✨ **Thanks for visiting my profile!**
