@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=shivanidhotre&label=Profile%20Views&color=0e75b6&style=flat" alt="shivanidhotre" />
 </p>
 
-<hr/>
-
-<!-- ABOUT + IMAGE -->
+<!-- ABOUT + IMAGE SECTION -->
 <table width="100%">
 <tr>
 
@@ -15,7 +13,7 @@
 
 ### 👩‍💻 About Me
 
-- 💬 Ask me about **Flutter,Dart,FirebaseJava, C++, C, MySQL, HTML, CSS**
+- 💬 Ask me about **Java, C++, C, MySQL, HTML, CSS**
 - 🌱 Currently learning **Flutter & Firebase**
 - 🎯 Focused on **clean UI & scalable apps**
 - 📫 Reach me at **shivanidhotre609@gmail.com**
@@ -31,7 +29,11 @@
 
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/animated-girl-coding.gif" width="260"/>
+<img 
+  src="https://i.pinimg.com/736x/a1/22/7b/a1227baefd4e77a596940b3e6278f861.jpg" 
+  width="260" 
+  style="border-radius:12px;"
+/>
 
 </td>
 
@@ -60,25 +62,25 @@
 
 ## 📊 GitHub Status
 
-<table width="100%">
-
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
 
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanidhotre&show_icons=true&locale=en&layout=compact" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanidhotre&layout=compact&show_icons=true&locale=en" 
+    alt="Most Used Languages"
+  />
 </td>
 
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shivanidhotre&show_icons=true&locale=en" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shivanidhotre&show_icons=true&locale=en" 
+    alt="GitHub Stats"
+  />
 </td>
 
-
+</tr>
 </table>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanidhotre" />
-</p>
 
 ---
 
