@@ -61,7 +61,7 @@
 ## 📊 GitHub Status
 
 <table width="100%">
-<tr>
+
 
 <td width="50%" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanidhotre&show_icons=true&locale=en&layout=compact" />
@@ -71,7 +71,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shivanidhotre&show_icons=true&locale=en" />
 </td>
 
-</tr>
+
 </table>
 
 ---
