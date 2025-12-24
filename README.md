@@ -1,77 +1,32 @@
-<h1 align="center">Hi 👋, I'm Shivani Dhotre</h1>
+## Hi there! 👋
 
-<h3 align="center">
-A passionate Flutter developer from India, crafting clean, scalable, and high-performance mobile applications with modern UI and seamless user experiences
-</h3>
+I'm Shivani Dhotre, a passionate  **Flutter Developer** dedicated to building **beautiful, high-performance,** and **scalable** mobile applications. I specialize in **clean UI, smooth user experiences,** and robust app **architecture**. Let’s create amazing Flutter apps together! 🚀
 
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=shivanidhotre&label=Profile%20Views&color=0e75b6&style=flat" 
-    alt="Profile Views"
-  />
-</p>
+## About Me
 
----
+👩‍💻 Flutter Developer passionate about building high-performance and scalable mobile apps
 
-<table width="100%">
-<tr>
+🎨 Focused on clean UI, smooth UX, and efficient app architecture
 
-<td width="65%" valign="top">
+💻 Experienced in Dart, Flutter, Firebase, API integration, and cross-platform app development
 
-### 👩‍💻 About Me
+🚀 Always eager to learn new technologies and implement modern app development practices
 
-- 💬 Ask me about **Flutter, Dart, Firebase, Java, C++, C**
-- 🌱 Currently learning **Flutter & Firebase**
-- 🔗 Experienced in **API integration & REST API binding**
-- 🎯 Focused on clean UI & scalable apps
-- 📫 Reach me at **shivanidhotre609@gmail.com**
+🧩 Love solving challenging problems and creating apps that make a real impact
 
-### 🔗 Connect With Me
-<a href="https://linkedin.com/in/shivani-dhotre-226046175">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32"/>
-</a>
+🤝 Motivated to collaborate and bring innovative ideas to life
 
-</td>
+## Skills & Technologies
 
-<td width="35%" align="center">
-  <img 
-    src="https://i.pinimg.com/736x/a1/22/7b/a1227baefd4e77a596940b3e6278f861.jpg"
-    width="100%"
-  />
-</td>
+[![My Skills](https://skillicons.dev/icons?i=flutter,java,html,css,mysql,dart,cpp,c,git,github,androidstudio,firebase&perline=8)](https://skillicons.dev)
 
-</tr>
-</table>
+## GitHub Stats
+🌟 **Public Repositories:** 10  
+👥 **Followers:** 2  
+👤 **Following:** 0  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivaniDhotre&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniDhotre&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+## Connect with Me
 
-## 🛠 Languages and Tools
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shivanidhotre&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanidhotre&layout=compact&langs_count=6&hide_border=true&theme=default" width="48%"/>
-
-</p>
-
----
-
-✨ **Thanks for visiting my profile!**
+<a href="https://www.linkedin.com/in/shivani-dhotre-226046175" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
